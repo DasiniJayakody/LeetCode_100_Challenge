@@ -1,4 +1,4 @@
-# 🚀 100 LeetCode Problems in 10 Days Challenge
+# 🚀 100 LeetCode Problems in 100 Days Challenge
 
 I challenged myself to solve **100 LeetCode problems in 100 days** (1 problems per day).  
 This repo contains my solutions, explanations, and learnings from the journey.  

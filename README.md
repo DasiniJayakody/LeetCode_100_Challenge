@@ -40,7 +40,7 @@ Each day has its own folder with **10 problem solutions**.
 ---
 
 ## 📎 Links
-- 📂 Full solutions: [GitHub Repo Link](#)   
+- 📂 Full solutions: [(https://github.com/DasiniJayakody/LeetCode_100_Challenge.git)](#)   
 
 ---
 
